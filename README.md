@@ -155,16 +155,15 @@ Upload to GitHub Pages for free hosting.
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #0a1f44; /* Dark glazy blue */
+    background-color: #0a1f44; 
     color: white;
 }
 
-/* Navbar */
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: rgba(92, 127, 188, 0.45); /* Slight transparent effect */
+    background: rgba(92, 127, 188, 0.45); 
     padding: 15px 30px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.3);
 }
@@ -183,46 +182,22 @@ header {
 
 nav a {
     text-decoration: none;
-    color: #d4e3ff; /* Light blue text */
+    color: #d4e3ff; 
     margin-left: 20px;
     font-weight: 500;
     transition: 0.3s;
 }
 
 nav a:hover {
-    color: #4da3ff; /* Brighter blue hover */
+    color: #4da3ff; 
 }
 
-/* Section */
 section {
     padding: 50px 20px;
     max-width: 800px;
     margin: auto;
 }
-/* .profile-links {
-    margin-top: 10px;
-}
 
-.profile-links a {
-    display: inline-block;
-    margin-right: 40px;
-}
-
-.profile-links img {
-    width: 40px;
-    height: 40px;
-    transition: 0.3s;
-}
-
-.profile-links img:hover {
-    transform: scale(1.1);
-}
-
-
-img {
-  width: 100%;
-  display: block;
-} */
  .profile-links {
     margin-top: 15px;
     display: flex;
@@ -239,19 +214,17 @@ img {
     transform: scale(1.1);
 }
 
-/* Wave background */
 .wave {
     margin-top: 40px;
     width: 100%;
 }
 
-/* Headings */
 h1, h2 {
     color: #ffffff;
 }
 .home-section {
-    position: relative; /* important so the wave positions relative to this section */
-    padding-bottom: 100px; /* space so text doesn't overlap wave */
+    position: relative; 
+    padding-bottom: 100px; 
 }
 
 .wave {
@@ -267,12 +240,10 @@ h1, h2 {
     padding: 0px;
     padding-right: 0%;
 }
-/* Headings */
 h1, h2 {
     color: #ffffff;
 }
 
-/* Button Style */
 button, .btn {
     background: #4da3ff;
     color: white;
@@ -286,7 +257,6 @@ button, .btn {
 button:hover, .btn:hover {
     background: #2e7bd8;
 }
-/* Skills Boxes */
 .skills-container {
 
     display:flex;
