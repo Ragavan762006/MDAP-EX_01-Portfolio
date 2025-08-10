@@ -59,8 +59,6 @@ Upload to GitHub Pages for free hosting.
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-    <!-- Navbar -->
     <header>
         <div class="logo">My Portfolio</div>
         <nav>
@@ -70,7 +68,6 @@ Upload to GitHub Pages for free hosting.
         </nav>
     </header>
 
-    <!-- Home Content -->
     <section>
         <h2>I am Ragavan</h2>
         <p class="intro">
@@ -81,11 +78,9 @@ Upload to GitHub Pages for free hosting.
             My goal is to keep improving and building better websites.
         </p>
 
-        <!-- Contact Button -->
          <a  class="skill" href="skills.html">skill</a>
         <a class="Contact" href="contact.html">Contact</a>
         
-        <!-- Profile Links -->
         <div class="profile-links">
             <a href="https://github.com/Ragavan762006" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
@@ -95,7 +90,6 @@ Upload to GitHub Pages for free hosting.
             </a>
         </div>
 
-        <!-- Background Wave -->
         <img src="wave (2).svg" alt="wave background" class="wave">
     </section>
 
@@ -115,7 +109,6 @@ Upload to GitHub Pages for free hosting.
 </head>
 <body>
 
-    <!-- Navbar -->
     <header>
         <div class="logo">My Portfolio</div>
         <nav>
@@ -124,8 +117,6 @@ Upload to GitHub Pages for free hosting.
             <a href="contact.html">Contact</a>
         </nav>
     </header>
-
-    <!-- Skills Content -->
     <section>
         <h2>My Skills</h2>
         <div class="skills-container">
